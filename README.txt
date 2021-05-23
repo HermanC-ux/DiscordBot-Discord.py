@@ -1,0 +1,1 @@
+This is a GitHub repo for a Discord bot written in Discord.py rewrite. To activate the bot, you will need to goto the Discord Developer Portal and past the hidden token. This bot has 3 commands ping, sum, and info,
